@@ -10,7 +10,7 @@ Step 1:Load the Libraries
 
 Step 2:Load the DataSet
 
-Step 3:Load the DataSet
+Step 3:Get the basic information of Data
 
 Step 4:Load the second dataset : Movies Dataset
 
