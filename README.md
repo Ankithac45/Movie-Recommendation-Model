@@ -34,6 +34,21 @@ Step 13:Overview Column
 
 Step 14:Get Recommendations as per the input movie
 
+# What I have Learned :
+I have picked up many new skills for this project.
+
+Numpy , Pandas Libraries
+
+Dealing with Errors
+
+Storing data in datframe, merging datframes and sorting them
+
+Cosine Similarity
+
+Note: I have referred and utilized many resources in web like youtube to build up this project.
+
+Special Thanks to IO SME
+
 
 
 
