@@ -47,7 +47,7 @@ Cosine Similarity
 
 Note: I have referred and utilized many resources in web like youtube to build up this project.
 
-# A Special Thanks For IO SME
+# A Special Thanks my IO SME
 
 
 
