@@ -1,3 +1,11 @@
+# TEAM 1
+
+# Team members :
+1. Ankitha C
+2. Tulai L
+3. Shrujan Dev
+4. Prashanth
+
 # Movie-Recommendation-Model
 This is a Basic Movie Recommender system which uses machine learning,Python  which will recommend best movies based on user inputs.
 This is the final project for Machine Learning PESU IO Course
@@ -34,11 +42,6 @@ Step 13:Overview Column
 
 Step 14:Get Recommendations as per the input movie
 
-# Team members :
-1. Ankitha C
-2. Tulai L
-3. Shrujan Dev
-4. Prashanth
 
 # Contributions of team members:
 Ankitha C : worked on pandas library and loaded the dataset , defining the function
