@@ -44,7 +44,7 @@ Step 14:Get Recommendations as per the input movie
 
 
 # Contributions of team members:
-Ankitha C : worked on pandas library and loaded the dataset , defining the function
+Ankitha C : worked on pandas library and loaded the dataset , cosine similarity
 
 Tulasi L : merged two datasets into one
 
