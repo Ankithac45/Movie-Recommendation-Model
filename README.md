@@ -41,7 +41,13 @@ Step 14:Get Recommendations as per the input movie
 4. Prashanth
 
 # Contributions of team members:
-Ankitha C : 
+Ankitha C : worked on pandas library and loaded the dataset , defining the function
+
+Tulasi L : merged two datasets into one
+
+Shrujan Dev : sorted the movies based on parameters like most popular , high budget movies and revenue.
+
+Prashanth : recommended movies based on overview column i.e description of movie
 
 # What we have Learned :
 we have picked up many new skills for this project.
