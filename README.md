@@ -34,8 +34,17 @@ Step 13:Overview Column
 
 Step 14:Get Recommendations as per the input movie
 
-# What I have Learned :
-I have picked up many new skills for this project.
+# Team members :
+1. Ankitha C
+2. Tulai L
+3. Shrujan Dev
+4. Prashanth
+
+# Contributions of team members:
+Ankitha C : 
+
+# What we have Learned :
+we have picked up many new skills for this project.
 
 Numpy , Pandas Libraries
 
@@ -45,9 +54,9 @@ Storing data in datframe, merging datframes and sorting them
 
 Cosine Similarity
 
-Note: I have referred and utilized many resources in web like youtube to build up this project.
+Note: We have referred and utilized many resources in web like youtube to build up this project.
 
-# A Special Thanks my IO SME
+# A Special Thanks our IO SME
 
 
 
