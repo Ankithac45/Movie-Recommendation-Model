@@ -2,7 +2,7 @@
 
 # Team members :
 1. Ankitha C
-2. Tulai L
+2. Tulasi L
 3. Shrujan Dev
 4. Prashanth
 
