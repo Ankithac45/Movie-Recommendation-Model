@@ -1,10 +1,3 @@
-# TEAM 1
-
-# Team members :
-1. Ankitha C
-2. Tulasi L
-3. Shrujan Dev
-4. Prashanth
 
 # Movie-Recommendation-Model
 This is a Basic Movie Recommender system which uses machine learning,Python  which will recommend best movies based on user inputs.
@@ -43,16 +36,7 @@ Step 13:Overview Column
 Step 14:Get Recommendations as per the input movie
 
 
-# Contributions of team members:
-Ankitha C : worked on pandas library and loaded the dataset , cosine similarity
-
-Tulasi L : merged two datasets into one
-
-Shrujan Dev : sorted the movies based on parameters like most popular , high budget movies and revenue.
-
-Prashanth : recommended movies based on overview column i.e description of movie
-
-# What we have Learned :
+# What I have Learned :
 we have picked up many new skills for this project.
 
 Numpy , Pandas Libraries
@@ -63,9 +47,8 @@ Storing data in datframe, merging datframes and sorting them
 
 Cosine Similarity
 
-Note: We have referred and utilized many resources in web like youtube to build up this project.
+Note: I have referred and utilized many resources in web like youtube to build up this project.
 
-# A Special Thanks our IO SME
 
 
 
