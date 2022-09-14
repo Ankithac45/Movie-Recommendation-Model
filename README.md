@@ -48,6 +48,9 @@ Cosine Similarity
 
 Note: I have referred and utilized many resources in web like youtube to build up this project.
 
+# Youtube Video Link: https://youtu.be/kDwes0FNepU
+
+
 
 
 
